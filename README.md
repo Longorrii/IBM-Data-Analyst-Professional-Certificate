@@ -43,7 +43,7 @@ At the end of the program, you complete a real-world capstone project specifical
 This credential earner has demonstrated proficiency in applying different analytical techniques by analyzing real-world datasets, creating visualizations & interactive dashboards, and presenting reports to share findings of data analysis, and is now equipped with skills for an entry-level role in data analytics. The earner has successfully completed 9 courses in Data Analytics and gained hands-on experience with data analysis tools, including Excel, SQL, Databases, Python, JupyterLab and Cognos.
 
 <p align="center">
-<img src="/Coursera C9MS8FG274HR.pdf" width=80% height=80%>
+<img src="/Coursera C9MS8FG274HR.jpg" width=80% height=80%>
 
 ---
 
@@ -66,7 +66,7 @@ This course presents a gentle introduction into the concepts of data analysis, t
 - Identify key elements in the Data Analytics process by analyzing a business case study and its data set. 
 
 <p align="center">
-<img src="/Course 01 - Introduction to Data Analytics/Coursera YBX8F5NHNZUR.pdf" width=60% height=60%>
+<img src="/Course 01 - Introduction to Data Analytics/Coursera YBX8F5NHNZUR.jpg" width=60% height=60%>
 
 - [x] [__Course-2 : Excel Basics for Data Analysis__](https://github.com/Longorrii/IBM-Data-Analyst-Professional-Certificate/tree/main/Course%2002%20-%20Excel%20Basics%20for%20Data%20Analysis)
 
@@ -84,7 +84,7 @@ This course is designed to provide you with basic working knowledge for using Ex
   
 
 <p align="center">
-<img src="/Course 02 - Excel Basics for Data Analysis/Coursera KHA34LRNUBBM.pdf" width=60% height=60%>
+<img src="/Course 02 - Excel Basics for Data Analysis/Coursera KHA34LRNUBBM.jpg" width=60% height=60%>
 
 
 - [X] [__Course-3 : Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/Longorrii/IBM-Data-Analyst-Professional-Certificate/tree/main/Course%2003%20-%20Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
@@ -102,7 +102,7 @@ This course covers some of the first steps in the development of data visualizat
 - Build dashboards using Excel and Cognos Analytics.
   
 <p align="center">
-<img src="/Course 03 - Data Visualization and Dashboards with Excel and Cognos/Coursera 3DYKXNLMYTPB.pdf" width=60% height=60%>
+<img src="/Course 03 - Data Visualization and Dashboards with Excel and Cognos/Coursera 3DYKXNLMYTPB.jpg" width=60% height=60%>
 
 - [x] [__Course-4 : Python for Data Science, AI & Development__](https://github.com/Longorrii/IBM-Data-Analyst-Professional-Certificate/tree/main/Course%2004%20-%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 
@@ -121,7 +121,7 @@ This introduction to Python course will take you from zero to programming in Pyt
 - Access web data using APIs and web scraping from Python in Jupyter Notebooks.   
 
 <p align="center">
-<img src="/Course 04 - Python for Data Science, AI & Development/Coursera 7YNMECT9EMHZ.pdf" width=60% height=60%>
+<img src="/Course 04 - Python for Data Science, AI & Development/Coursera 7YNMECT9EMHZ.jpg" width=60% height=60%>
 
 - [X] [__Course-5 : Python Project for Data Science__](https://github.com/Longorrii/IBM-Data-Analyst-Professional-Certificate/tree/main/Course%2005%20-%20Python%20Project%20for%20Data%20Science)
 
@@ -140,7 +140,7 @@ You will perform specific data science and data analytics tasks such as extracti
 - Build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook. 
 
 <p align="center">
-<img src="/Course 05 - Python Project for Data Science/Coursera MR824E47SBB9.pdf" width=60% height=60%>
+<img src="/Course 05 - Python Project for Data Science/Coursera MR824E47SBB9.jpg" width=60% height=60%>
 
 - [x] [__Course-6 : Databases and SQL for Data Science with Python__](https://github.com/Longorrii/IBM-Data-Analyst-Professional-Certificate/tree/main/Course%2006%20-%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
 
@@ -171,7 +171,7 @@ Through hands-on labs and projects, you will practice building SQL queries, work
 - Build more powerful queries with advanced SQL techniques like views, transactions, stored procedures and joins. 
 
 <p align="center">
-<img src="/Course 06 - Databases and SQL for Data Science with Python/Coursera TUU5AUJDAN9V.pdf" width=60% height=60%>
+<img src="/Course 06 - Databases and SQL for Data Science with Python/Coursera TUU5AUJDAN9V.jpg" width=60% height=60%>
 
 - [x] [__Course-7 : Data Analysis with Python__](https://github.com/Longorrii/IBM-Data-Analyst-Professional-Certificate/tree/main/Course%2007%20-%20Data%20Analysis%20with%20Python)
 
@@ -199,7 +199,7 @@ You will learn how to import data from multiple sources, clean and wrangle data,
 - Build and evaluate regression models using machine learning scikit-learn library and use them for prediction and decision making
  
 <p align="center">
-<img src="/Course 07 - Data Analysis with Python/Coursera Q4XJSVNYJ8DE.pdf" width=60% height=60%>
+<img src="/Course 07 - Data Analysis with Python/Coursera Q4XJSVNYJ8DE.jpg" width=60% height=60%>
 
 - [x] [__Course-8 : Data Visualization with Python__](https://github.com/Longorrii/IBM-Data-Analyst-Professional-Certificate/tree/main/Course%2008%20-%20Data%20Visualization%20with%20Python)
 
@@ -220,7 +220,7 @@ You will learn hands-on by completing numerous labs and a final project to pract
 - Generate interactive dashboards containing scatter, line, bar, bubble, pie, and sunburst charts using the Dash framework and Plotly library
 
 <p align="center">
-<img src="/Course 08 - Data Visualization with Python/Coursera RULURYAST7YP.pdf" width=60% height=60%>
+<img src="/Course 08 - Data Visualization with Python/Coursera RULURYAST7YP.jpg" width=60% height=60%>
 
 - [x] [__Course-9 : IBM Data Analyst Capstone Project__](https://github.com/Longorrii/IBM-Data-Analyst-Professional-Certificate/tree/main/Course%2009%20-%20IBM%20Data%20Analyst%20Capstone%20Project)
 
@@ -229,7 +229,7 @@ In this course you will apply various Data Analytics skills and techniques that 
 You will undertake the tasks of collecting data from multiple sources, performing exploratory data analysis, data wrangling and preparation, statistical analysis and mining the data, creating charts and plots to visualize data, and building an interactive dashboard. The project will culminate with a presentation of your data analysis report, with an executive summary for the various stakeholders in the organization. You will be assessed on both your work for the various stages in the Data Analysis process, as well as the final deliverable. 
 
 <p align="center">
-<img src="/Course 09 - IBM Data Analyst Capstone Project/Coursera Z28XK4MA7P42.pdf" width=60% height=60%>
+<img src="/Course 09 - IBM Data Analyst Capstone Project/Coursera Z28XK4MA7P42.jpg" width=60% height=60%>
 
 ---
 
